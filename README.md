@@ -85,4 +85,92 @@ Language : python3, javascript
 Skill : flask, mongoDB
 프로젝트 상세 설명
 
+About Me
+정보보안 관련 업무 2년 이상의 경험을 보유하고 있습니다.
+모의해킹 및 취약점 점검, 침해사고 분석, 보안 약점 진단, 악성코드 분석 등을 진행했습니다.
+
+프로그래밍 개발 관련해 약 3년 이상의 프리랜서 활동을 했습니다.
+주로 Front-end(Vue.js, React.js) 개발, Back-end(Django, Flask, Fast API) 개발 했으며,
+다양한 환경에서 배포 단계까지 진행했습니다.
+
+GitHub
+:
+github.com/tkddnr924
+Blog
+:
+asvv.tistory.com
+BTLO
+:
+blueteamlabs.online/public/user/4a94c9cac5f7f675ab4c5c
+3+
+Years Of Experience
+15+
+Handled Projects
+5+
+DFIR Experience
+3+
+Awards Won
+SERVICES
+My Services
+01
+프로그래밍
+FE, BE 개발 후 배포까지 진행. 스크립트 개발 등 다양한 프로그래밍
+
+02
+침해사고 분석 및 대응
+디지털 포렌식 아티팩트 분석. 침해사고 분석 대응
+
+03
+모의해킹 및 취약점 점검
+모의해킹, 취약점 점검, 보안 약점 진단, 침투 테스트 등 수행
+
+04
+프로젝트 리딩
+다양한 프로젝트 리딩 경험
+
+RESUME
+Work Experience
+(주) 플레인비트
+2022.07 - Current
+
+연구원
+디지털 포렌식 연구 및 프로그램 개발. 침해사고 분석 및 대응
+
+넷식스솔루션
+2021.12 - 2022.06
+
+취약점 점검
+공공기관 대상 소스코드 보안 약점 진단, 모의해킹 및 취약점 진단, 침투 테스트 수행
+
+공군 사이버작전센터
+2017.11 - 2019.10
+
+정보보호병
+인터넷 및 인트라넷 보안 위협 분석 및 대응. 악성코드 분석 및 APT Group 분석. 내부 프로그램 개발
+
+
+My Education
+K-Shield
+2016-2017
+
+교육
+AWS 클라우드 인프라 환경에서의 지능형 보안 위협 방어
+
+Best of the Best 5th
+2016-2017
+
+특기병트랙
+디지털 포렌식, 네트워크 해킹, 정보 보안 컨설팅 등 다양한 경험. 디지털 포렌식 관련 프로젝트 진행
+
+선문 BIT Academy
+2015 - 2016
+
+윈도우 프로그래밍
+윈도우 프로그래밍. C, C++, C# 프로그래밍 및 내부 프로젝트 수행
+
+선문대학교
+2015 - 2022
+
+컴퓨터공학과
+컴퓨터 공학과 졸업
 
